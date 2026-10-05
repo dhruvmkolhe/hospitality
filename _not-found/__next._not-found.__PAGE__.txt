@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[22016,["/hospitality/_next/static/chunks/06rtiun940vr~.js","/hospitality/_next/static/chunks/0bhdkbrdtu09r.js"],""]
+3:I[97367,["/hospitality/_next/static/chunks/06rtiun940vr~.js","/hospitality/_next/static/chunks/0bhdkbrdtu09r.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"mx-auto max-w-2xl px-6 py-24 text-center","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.28em] text-gold","children":"Off the map"}],["$","h1",null,{"className":"mt-3 font-display text-5xl italic","children":"That room is not in the house."}],["$","p",null,{"className":"mt-4 text-ink/70","children":"The path you followed does not match a chamber or a page."}],["$","$L2",null,{"href":"/","className":"mt-8 inline-block rounded-full bg-sea px-6 py-3 text-xs uppercase tracking-[0.18em] text-cream","children":"Back to the inn"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"nIDKYN8BdLZxcRNvvEydU"}
+5:null
